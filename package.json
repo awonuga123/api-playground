@@ -1,7 +1,7 @@
 {
-  "name": "beginner-backend",
-  "version": "0.1.0",
-  "description": "A simple Express backend for beginners",
+  "name": "api-playground",
+  "version": "1.0.0",
+  "description": "A full-stack API playground with interactive frontend for testing RESTful endpoints",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
